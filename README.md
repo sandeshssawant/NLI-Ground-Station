@@ -1,2 +1,2 @@
 # NLI-Ground-Station
-SOME STUPID SHIT
+Maza nav Sandesh Sawant
