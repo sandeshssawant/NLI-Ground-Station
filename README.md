@@ -1,2 +1,2 @@
 # NLI-Ground-Station
-Basic Antenna Design
+ground station Basic Antenna Design
